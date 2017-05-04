@@ -1,0 +1,16 @@
+{
+  "name": "twitter_node",
+  "version": "1.0.0",
+  "description": "Node.js server that listens for tweets of a # and sends data between client / server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.10.6",
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {}
+}
